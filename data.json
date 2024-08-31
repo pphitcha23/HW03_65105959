@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Phitchaphon Pansuk",
+        "email": "Phitchaphon23@gmail.com",
+        "password": "Phitchaphon23",
+        "gender": "Female"
+      }
+    ]
+  }
